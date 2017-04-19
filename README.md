@@ -1,4 +1,7 @@
-# test coverage for  [material-ui (v0.17.4)](http://material-ui.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-material-ui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-material-ui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-material-ui.svg)](https://travis-ci.org/npmtest/node-npmtest-material-ui)
+# npmtest-material-ui
+
+#### test coverage for  [material-ui (v0.17.4)](http://material-ui.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-material-ui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-material-ui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-material-ui.svg)](https://travis-ci.org/npmtest/node-npmtest-material-ui)
+
 #### React Components that Implement Google's Material Design.
 
 [![NPM](https://nodei.co/npm/material-ui.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/material-ui)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-material-ui/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-material-ui/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-material-ui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-material-ui/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-material-ui/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-material-ui/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-material-ui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-material-ui/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-material-ui/build/test-report.html](https://npmtest.github.io/node-npmtest-material-ui/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-material-ui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-material-ui/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-material-ui/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-material-ui/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-material-ui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-material-ui/build/apidoc.html)
 
